@@ -34,8 +34,8 @@ def passwd(password):
     passw.send_keys(password)
 
 driver.implicitly_wait(10)
-login("boldlord@gmail.com")
-passwd("Pejulord123@")
+login("b****d@gmail.com")
+passwd("*******")
 
 driver.implicitly_wait(10)
 
